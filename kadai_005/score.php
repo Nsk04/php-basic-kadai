@@ -7,7 +7,7 @@
 </head>
 
 <body>
-      <p>
+    <p>
         <?php
         $score1 = 80;
         $score2 = 60;
